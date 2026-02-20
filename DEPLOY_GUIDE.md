@@ -1,6 +1,6 @@
 # 🚀 Guía de Deploy - LiftyLife SaaS
 
-## Despliegue Paso a Paso
+## Despliegue Paso a Paso 2025
 
 ---
 
